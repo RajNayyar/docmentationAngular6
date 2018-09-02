@@ -4,11 +4,12 @@ input[type="search"]{
 	height: 30px;
 }
 .heading{
-	color: white;
-	background-color: black;
+	 background-color: #072f5f;
+ 	 color: white;
 	text-align: center;
-	
+	border-radius: 50px;
 	margin:20px auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .input-type-demo{
 margin-top:60px;
