@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+html{
+	height: 100%;
+}
+body{
+	height: 100%;
+}
+p{
+	font-size:20px;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+p{
+  font-size: 15px;
+  margin-left: 0px;
+}
+.buttons-class button {
+    width: 100px;
+}
+.buttons-class div {
+    width: 100px;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+}

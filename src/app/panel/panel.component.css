@@ -1,0 +1,18 @@
+#check {
+   margin-top: 50px;
+   
+    margin-left: 350px;
+    
+}
+.input-type-demo {
+   margin-top: 45px;
+
+}
+.calender-type p{
+ margin-top: 20px;
+	  
+}
+input[type="date"] {
+	margin-left: 35%;
+    width: 200px;
+}

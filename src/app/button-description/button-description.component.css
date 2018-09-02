@@ -1,0 +1,57 @@
+.button-types p {
+  width: 100%; 
+  margin: 0 auto;
+  /*height: 10%;*/
+  margin-top: 25px;
+}
+.button-types{
+  display: flex;
+}
+.primary-button
+{
+	margin: 50px auto;
+	text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.buttons-class {
+	margin: 0 auto;
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+.buttons-class button {
+    width: auto;
+    margin: 0 10px;
+   	background-color: black;
+ 	color:#D9D9D9;
+  	font-size: 1.5em;
+ 	font-weight: lighter;
+}
+.buttons-class button:hover {
+	background-color: #D9D9D9;
+		color:black;
+}
+.button-partial-demo button {
+	border: 0px solid;
+}
+.button-types {
+	display: block;
+}
+.button-demo{
+	margin: 0 auto;
+}
+
+button:hover {
+     background-color: #7CA7D8;;
+}
+.heading{
+	color: white;
+	background-color: black;
+	text-align: center;
+	padding: 20px auto;
+}
+
+
